@@ -5,7 +5,7 @@ function Events()
         alert(a);
     }
     return (
-        <button onClick={()=>good("Hello You have a message  from Santa")}></button>
+        <button onClick={()=>good("Hello You have a message  from Santa")}> MESSAGE</button>
     );
 }
 export default Events;
